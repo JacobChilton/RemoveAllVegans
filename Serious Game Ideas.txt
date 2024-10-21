@@ -1,3 +1,5 @@
+DIPLOMACY
+
 Idea 1
 strategy game 
 multiple factions
@@ -33,6 +35,8 @@ goal:
 take over the world
 
 
+GREENWASHING
+
 Idea 1
 Name - freedom of the forest
 Animals of the rain forest fight of lumberjacks - BTD style
@@ -40,7 +44,7 @@ different animals have different abilities
 Idea 2
 name - avoid the feds
 Recycle plant owner
-Don't actually recycle, try to figure out the limit of amount you recycle over the amount you dont to avoid fines
+Don't actually recycle, try to figure out the limit of amount you recycle over the amount you don't to avoid fines
 Idea 3
 name - Remove all Vegans
 kill off vegans as they are bad for the environment
@@ -49,6 +53,8 @@ Buzz Off
 survive as a bee colony
 Idea 5
 
+
+PROTEST
 
 Idea 1
 I predict a Riot
