@@ -1,17 +1,28 @@
 DIPLOMACY
 
 Idea 1
-strategy game 
-multiple factions
-choose a faction based on views, strengths and weaknesses
-negotiations
-alliances
-sabotage
-influencing other factions
-diversity
 
-end goal:
-ensure the remaining world consist only of you and allies. Or they will destroy you.
+Ant colony strategy game which you must maintain relations with nearby colonies otherwise you will be forced to go to war with them, in which you must capture points and unlock special characters like warrior ants as you progress through the battlefield. Alliances may come to assist you in battle, along with the enemies alliances reinforcing them.
+
+Features:
+Multiple factions
+Choose a faction based on views, strengths and weaknesses
+negotiations
+Alliances
+sabotage other colonies
+Other colonies sabotage you - option to retaliate.
+Influencing other factions
+Diversity
+War
+Cut off calls for help
+
+Inspiration:
+LEGO Star Wars: The Clone Wars III inspiration. 
+Empire at War
+Empire of the Ants.
+
+End goal:
+Ensure the remaining world consist only of you and allies. Or they will destroy you.
 
 Idea 2
 Age Of Empires but Ant Colonies.
