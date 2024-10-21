@@ -1,8 +1,8 @@
 DIPLOMACY
 
-Idea 1
+Idea 1 - Most likely to be used
 
-Ant colony strategy game which you must maintain relations with nearby colonies otherwise you will be forced to go to war with them, in which you must capture points and unlock special characters like warrior ants as you progress through the battlefield. Alliances may come to assist you in battle, along with the enemies alliances reinforcing them.
+Ant colony strategy game which you must maintain positive relations with nearby colonies whilst expanding your own otherwise you will be forced to go to war with them, in which you must capture points and unlock special characters like warrior ants as you progress through the battlefield. Alliances may come to assist you in battle, along with the enemies alliances reinforcing them.
 
 Features:
 Multiple factions
@@ -14,7 +14,7 @@ Other colonies sabotage you - option to retaliate.
 Influencing other factions
 Diversity
 War
-Cut off calls for help
+Cut off calls for help to prevent reinforcements
 
 Inspiration:
 LEGO Star Wars: The Clone Wars III inspiration. 
